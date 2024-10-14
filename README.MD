@@ -2,11 +2,11 @@
 
 Based off the MATLAB Simulink examples for the double pendulum exercise for simple and quick 'true path' generation. 
 
-%% TODO: Add background %%
-%% TODO: Add scope %%
-%% TODO: Add objectives %%
-%% TODO: Add approach %%
-%% TODO: Add position in qfuse system %%
+TODO: Add background
+TODO: Add scope
+TODO: Add objectives
+TODO: Add approach
+TODO: Add position in qfuse system
 
 ## Files
 **Current Files**
@@ -28,4 +28,4 @@ Based off the MATLAB Simulink examples for the double pendulum exercise for simp
 
 
 **Source Material and Links**
-%% TODO: Add the source material and links for the original MATLAB Simulink example for the double pendulum simulation. %%
+TODO: Add the source material and links for the original MATLAB Simulink example for the double pendulum simulation.
