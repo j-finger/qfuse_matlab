@@ -2,6 +2,12 @@
 
 Based off the MATLAB Simulink examples for the double pendulum exercise for simple and quick 'true path' generation. 
 
+%% TODO: Add background %%
+%% TODO: Add scope %%
+%% TODO: Add objectives %%
+%% TODO: Add approach %%
+%% TODO: Add position in qfuse system %%
+
 ## Files
 **Current Files**
 `simuluationSetup.m` sets up the universal and control parameters (such as sample rate and FSR) for the double pendulum. It uses `setIMUparameters.m` to convert IMU data sheet values to simulation units.
