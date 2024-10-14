@@ -27,6 +27,8 @@ This simulation focuses on:
 ## Position in qfuse System
 This simulation serves as a critical component within the `qfuse` ecosystem by providing a controlled environment to test and validate IMU sensor performance. The accurate comparison between simulated ground truth and actual sensor measurements aids in refining sensor fusion algorithms, minimizing drift, and enhancing the reliability of data streams used across various applications within the `qfuse` project.
 
+The MATLAB algorithm developed through this simulation will be converted into C++ code to run locally on the qfuse board, enabling real-time sensor fusion and data processing.
+
 ## Files
 **Current Files**
 - `simulationSetup.m`: Sets up the universal and control parameters (such as sample rate and FSR) for the double pendulum. It uses `setIMUparameters.m` to convert IMU datasheet values to simulation units.
